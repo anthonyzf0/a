@@ -1,0 +1,7 @@
+C:\Users\eahscs\source\repos\Postfix\Postfix\bin\Debug\Postfix.exe.config
+C:\Users\eahscs\source\repos\Postfix\Postfix\bin\Debug\Postfix.exe
+C:\Users\eahscs\source\repos\Postfix\Postfix\bin\Debug\Postfix.pdb
+C:\Users\eahscs\source\repos\Postfix\Postfix\obj\Debug\Postfix.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\source\repos\Postfix\Postfix\obj\Debug\Postfix.csproj.CoreCompileInputs.cache
+C:\Users\eahscs\source\repos\Postfix\Postfix\obj\Debug\Postfix.exe
+C:\Users\eahscs\source\repos\Postfix\Postfix\obj\Debug\Postfix.pdb
